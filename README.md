@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antoniojoseha
-- 👀 I’m interested in Front-end Develop 
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Front-end Develop, already learned HTML and CSS 
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on everyone's projects
 - 📫 How to reach me @antoniojoseha on twitter
 
